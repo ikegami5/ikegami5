@@ -1,4 +1,10 @@
-### Hi there 👋
+### I.T. (ikegami5) のリポジトリ
+
+- blog https://blog.mathq2nd.com/
+
+- MathQ https://mathq2nd.com/webapp/
+
+- GitHub Pages https://ikegami5.github.io/
 
 <!--
 **ikegami5/ikegami5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
